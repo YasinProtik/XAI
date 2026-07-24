@@ -45,15 +45,15 @@ Architecture
 
 app
 components
-├── Navbar
-├── Hero
-├── DataJourney
-├── Dashboard
-├── WowSection
-├── Footer
-├── ThreeScene
-├── Particles
-└── UI
+── Navbar
+── Hero
+── DataJourney
+── Dashboard
+── WowSection
+── Footer
+── ThreeScene
+── Particles
+── UI
 
 hooks
 lib
